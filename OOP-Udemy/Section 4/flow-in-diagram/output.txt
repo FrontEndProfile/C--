@@ -1,0 +1,11 @@
+Walking a step 0
+Walking a step 1
+Walking a step 2
+Walking a step 3
+Walking a step 4
+Walking a step 5
+Walking a step 6
+Walking a step 7
+Walking a step 8
+Walking a step 9
+Final Step count out of while loop : 10
