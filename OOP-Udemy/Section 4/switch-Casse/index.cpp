@@ -12,7 +12,7 @@ int main() {
 	char op;
 
 	cin >> num1 >> op >> num2;
-
+ 
 
 	switch(op){
 	case '+' : cout << num1 + num2 <<endl; break;
