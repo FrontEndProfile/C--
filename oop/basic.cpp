@@ -1,4 +1,4 @@
-#include <iostream>
+#include <cstdio>
 using namespace std;
 
 
@@ -14,13 +14,18 @@ class product {
 
 int main() {
 
-    product camera;
+    // product camera;
     // edit v
 
-    camera.mrp = 100;
+    // camera.mrp = 100;
     // cout << sizeof(camera) <<endl;
 
-    cout << "MRP Is " << camera.mrp <<endl;
+    // cout << "MRP Is " << camera.mrp <<endl;
+
+    puts("CLOCK TIME");
+    puts("CLOCK TIME");
+    puts("CLOCK TIME");
+    puts("CLOCK TIME");
 
     return 0;
 }
