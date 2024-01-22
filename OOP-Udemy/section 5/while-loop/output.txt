@@ -1,1 +1,2 @@
-OutPut : 4
+Found: 1, 0, -1
+Total sum of : 0
